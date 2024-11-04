@@ -126,7 +126,8 @@ print(plan)
 
 # Output
 
-![image](https://github.com/user-attachments/assets/3504400b-c02e-4383-8b8d-7d0f0a521f74)
+![image](https://github.com/user-attachments/assets/4d638730-3db3-4a38-a6bb-78896a55dd83)
+
 
 # Result
 Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
